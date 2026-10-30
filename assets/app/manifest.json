@@ -1,0 +1,140 @@
+{
+  "coach-overview": {
+    "width": 1425,
+    "height": 1627,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-timeline": {
+    "width": 1234,
+    "height": 774,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-training-draft": {
+    "width": 1425,
+    "height": 1988,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-training-activate": {
+    "width": 1425,
+    "height": 1988,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-training-active": {
+    "width": 1425,
+    "height": 1988,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-checkins-queue": {
+    "width": 1425,
+    "height": 925,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-checkin-typed": {
+    "width": 1425,
+    "height": 2022,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "coach-checkin-sent": {
+    "width": 1425,
+    "height": 2022,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "tile-checkins": {
+    "width": 1161,
+    "height": 530,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "tile-training-w1": {
+    "width": 1161,
+    "height": 1352,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "tile-training-w2": {
+    "width": 1161,
+    "height": 1352,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "tile-nutrition-training": {
+    "width": 1161,
+    "height": 2201,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "tile-nutrition-rest": {
+    "width": 1161,
+    "height": 1649,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "tile-progress": {
+    "width": 1012,
+    "height": 271,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "templates-card": {
+    "width": 381,
+    "height": 327,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "templates-assign": {
+    "width": 640,
+    "height": 639,
+    "viewport": "desktop",
+    "css": "app-desktop.css"
+  },
+  "client-home": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  },
+  "client-training": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  },
+  "client-tracker": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  },
+  "client-trends": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  },
+  "client-nutrition-refeed": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  },
+  "client-plans": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  },
+  "client-checkins": {
+    "width": 390,
+    "height": 844,
+    "viewport": "phone",
+    "css": "app-phone.css"
+  }
+}

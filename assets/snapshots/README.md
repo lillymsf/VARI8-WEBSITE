@@ -1,0 +1,3 @@
+Drop `<slot-name>.png|webp|jpg` here, then add `"<slot-name>": "<file name>"` to `manifest.json`. Slots not listed keep the placeholder; alt text comes from the slot label. Sizes: desktop 2880×1800 @2x or 1440×900; phone 780×1688 @2x or 390×844.
+
+Slots: coach-overview; coach-checkins-queue, coach-checkin-review, coach-tracker, coach-plans, coach-messages; client-home, client-tracker, client-plans, client-messages; feat-clients, feat-plans, feat-checkins, feat-messages, feat-tracker, feat-notes; templates-card. All desktop + feature slots want 1440×900; phones 390×844; templates-card uses its manifest dims. Feature thumbnails are cropped top-left — compose the key UI in the top-left ~900×560 area of the capture.
